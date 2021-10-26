@@ -1,12 +1,51 @@
-<h1 align = "center"> Olá 👋, sou MicaelJr </h1>
-<h3 align = "center"> Um apaixonado por tecnologia!  </h3>
+<h1 align="left">Hi dear <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Micael Júnio</h1>
 
-<h3 align = "left"> Conecte-se a mim: </h3>
-<p align = "left">
-<a href="https://linkedin.com/in/micael-júnio-2751a615b"target="blank"> <img align = "center"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"alt =""height ="30"width ="40"/></a>
+<br>
+
+## 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=wanderson648&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanderson648&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
 </p>
 
-<h3 align ="left"> Idiomas e ferramentas: </h3>
-<p align = "left"> <a href="https://www.w3schools.com/css/"target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"alt ="css3"width ="40"height ="40"/></a><a href="https://www.w3.org/html/"target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"alt ="html5"width = "40" height = "40" /></a> <a href="https://www.java.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg "alt=" java "width ="40"height ="40"/></a><a href =" https://desenvolvedor.mozilla.org/en-US/docs/Web/JavaScript"target ="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg "alt ="javascript"width ="40"height ="40"/></a> <a href="https://www.mongodb.com/ "target="_blank"><img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg "alt ="mongodb"width ="40"height ="40"/> </a> <a href = "https://www.mysql.com/"target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"alt =" mysql "width ="40"height ="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"alt ="nodejs"width ="40"height ="40"/> </a> <a href = "https://www.php.net" target = "_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt = "php" width = "40"height = "40" /> </a> <a href="https://www.python.org" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"alt ="python"width ="40"height ="40"/> </a> <a href =" https://reactjs.org/ "target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt = "react" width = "40" height = "40"/> </a> </p>
+<br><br>
 
-<p> <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs?username=micaeljr&show_icons=true&locale=en&layout=compact" alt = "micaeljr" /> </p>
+## 👨🏽‍🦲 &nbsp;Social Links
+
+<p align="left" style="background:yellow">
+<a href="https://www.linkedin.com/in/micael-júnio2751a615b/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/micael-júnio2751a615b?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<!-- <a href="https://instagram.com/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/micael-júnio2751a615b?style=flat&logo=instagram" alt="instagram"/>
+</a> -->
+</p>
+
+<!--
+**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+→
