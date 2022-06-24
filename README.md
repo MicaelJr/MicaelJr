@@ -16,25 +16,30 @@
 
 <br>
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MicaelJr&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelJr&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
-<br><br>
-
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/micael-júnio-2751a615b/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/micael-júnio-2751a615b?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<!-- <a href="https://instagram.com/" target="_blank">
+<a href="https://instagram.com/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/micael-júnio2751a615b?style=flat&logo=instagram" alt="instagram"/>
-</a> -->
+</a>
 </p>
+
+<br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=MicaelJr&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MicaelJr&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+  <br>
+<img src="https://user-images.githubusercontent.com/43708135/175615731-fd91f2b8-1328-4ee7-94b1-9d845fef7ff9.svg" />
+</p>
+
+<br><br>
+
 
 <!--
 **maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -49,4 +54,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 →
